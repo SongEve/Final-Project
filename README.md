@@ -4,4 +4,4 @@
 
  Put the 'training_data'file and 'testing_data_release'file in the code folder.
  
- To reproduce the result, just run the cell one-by-one in the .ipynb file. 
+ To reproduce the result, just run the cell one-by-one in the .ipynb file under the code folder. 👍
